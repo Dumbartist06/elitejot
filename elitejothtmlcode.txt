@@ -1,0 +1,143 @@
+<!DOCTYPE html><html><head><link href="https://fonts.googleapis.com/css?family=Inter&display=swap" rel="stylesheet" /><link href="https://fonts.googleapis.com/css?family=Hammersmith+One&display=swap" rel="stylesheet" /><link href="https://fonts.googleapis.com/css?family=Doppio+One&display=swap" rel="stylesheet" /></head><body><div class="v1_2"><div class="v1_7"></div><div class="v1_8"></div><span class="v9_11">welcome back!</span><span class="v9_12">sample_username</span><div class="v11_15"></div><div class="v11_21"></div><div class="v11_17"></div><div class="name"></div><div class="name"></div><div class="v37_2"></div><span class="v41_2">No events scheduled for today.</span><span class="v41_3">25 October</span><span class="v41_4">Tuesday</span></div></body></html> <br/><br/> <style>* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v1_2 {
+  width: 360px;
+  height: 800px;
+  background: rgba(181,198,241,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v1_7 {
+  width: 360px;
+  height: 126px;
+  background: rgba(4,119,184,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.v1_8 {
+  width: 54px;
+  height: 55px;
+  background: url("../images/v1_8.png");
+  opacity: 1;
+  position: absolute;
+  top: 50px;
+  left: 45px;
+}
+.v9_11 {
+  width: 143px;
+  color: rgba(182,198,241,1);
+  position: absolute;
+  top: 62px;
+  left: 109px;
+  font-family: Inter;
+  font-weight: Semi Bold;
+  font-size: 13px;
+  opacity: 1;
+  text-align: left;
+}
+.v9_12 {
+  width: 207px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 76px;
+  left: 109px;
+  font-family: Hammersmith One;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v11_15 {
+  width: 65px;
+  height: 96px;
+  background: rgba(2,72,137,1);
+  opacity: 1;
+  position: absolute;
+  top: 29px;
+  left: 30px;
+}
+.v11_21 {
+  width: 379px;
+  height: 46px;
+  background: rgba(0,0,0,1);
+  opacity: 1;
+  position: absolute;
+  top: 11px;
+  left: 19px;
+}
+.v11_17 {
+  width: 20px;
+  background: url("../images/v11_17.png");
+  opacity: 1;
+  position: absolute;
+  top: 71px;
+  left: 7px;
+  border: 4px solid rgba(182,198,241,1);
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.v37_2 {
+  width: 306px;
+  height: 129px;
+  background: rgba(2,72,137,1);
+  opacity: 1;
+  position: absolute;
+  top: 226px;
+  left: 27px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  overflow: hidden;
+}
+.v41_2 {
+  width: 360px;
+  color: rgba(182,198,241,1);
+  position: absolute;
+  top: 279px;
+  left: 55px;
+  font-family: Doppio One;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: left;
+}
+.v41_3 {
+  width: 129px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 143px;
+  left: 17px;
+  font-family: Hammersmith One;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v41_4 {
+  width: 76px;
+  color: rgba(2,72,137,1);
+  position: absolute;
+  top: 169px;
+  left: 17px;
+  font-family: Inter;
+  font-weight: Extra Bold Italic;
+  font-size: 18px;
+  opacity: 1;
+  text-align: left;
+}
+</style>
